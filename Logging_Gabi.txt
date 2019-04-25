@@ -1,0 +1,20 @@
+Apr 11, 2019 1:39:45 PM Server.Server addClient
+INFO: C1 P.T: 7 repartizat la coada: 1
+Apr 11, 2019 1:39:49 PM Server.Server addClient
+INFO: C2 P.T: 13 repartizat la coada: 2
+Apr 11, 2019 1:39:53 PM Server.Server addClient
+INFO: C3 P.T: 7 repartizat la coada: 1
+Apr 11, 2019 1:39:58 PM Server.Server addClient
+INFO: C4 P.T: 12 repartizat la coada: 3
+Apr 11, 2019 1:40:03 PM Server.Server addClient
+INFO: C5 P.T: 14 repartizat la coada: 1
+Apr 11, 2019 1:40:06 PM Server.Server addClient
+INFO: C6 P.T: 7 repartizat la coada: 2
+Apr 11, 2019 1:40:09 PM Server.Server addClient
+INFO: C7 P.T: 14 repartizat la coada: 3
+Apr 11, 2019 1:40:12 PM Server.Server addClient
+INFO: C8 P.T: 8 repartizat la coada: 2
+Apr 11, 2019 1:40:15 PM Server.Server run
+INFO: [Statistics] Average waiting time: 10.25
+Apr 11, 2019 1:40:15 PM Server.Server run
+INFO: [Statistics] Peak time: 25
